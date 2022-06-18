@@ -1,0 +1,28 @@
+OOP stands for Object-Oriented Programming.
+Procedural programming is about writing procedures or methods that perform operations on the 
+data, while object-orientedprogramming is about creating objects that contain both data and 
+methods.
+////////////////////////////////////////////////////////////////////////////////////////////
+Java - What are Classes and Objects?
+
+Classes -> No memory initalized ;
+objects -> Memory initilized are the two main aspects of object-oriented programming.
+
+
+class -> fruit ...
+object -> apple , banana etc;
+
+object is an instance of a class.
+When the individual objects are created, they inherit all the variables and methods
+from the class.
+
+///////////////////////////////////////////////////////////////////////////////////////////
+Java Classes/Objects 
+
+Everything in Java is associated with classes and objects, along with its attributes 
+and methods
+
+attributes means - > car has weight , and color red ;
+methods means -> car has drive and break;
+
+A Class is like an object constructor, or a "blueprint" for creating objects
